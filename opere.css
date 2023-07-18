@@ -1,0 +1,14 @@
+body {
+ 	background-color: #B0C4DE;
+  font-family: georgia;
+}
+
+ h1 {
+  text-align: center;
+}
+
+footer {
+  padding-top: 30px;
+  background-color: whitesmoke;
+  text-align: center;
+}

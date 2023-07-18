@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>The Montessori method: scientific pedagogy as applied to child education in "The children's houses" with additions and revisions by the author</title>
+				<author xml:id="MM">Montessori, Maria</author>
+				<respStmt>
+					<resp>Compiled by</resp>
+					<name xml:id="af">Aurora Falanga</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p>URL "The Montessori method"</p>
+			</publicationStmt>
+			<sourceDesc>
+				<title>The Montessori method</title>
+				<author>Maria Montessori</author>
+				<publisher>Frederick A. Stokes company</publisher>
+				<pubPlace>New York</pubPlace>
+				<date>1912</date>
+			</sourceDesc>
+			</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>The Montessori method: scientific pedagogy as applied to child education in "The children's houses" with additions and revisions by the author. Translated from the italian by Anne E. George whit an introduction by professor Henry W. Holmes of Harvard University</p>
+			<div type="Acknowledgments">
+					<p>Grateful acknowledgment is made to Mrs. Gny Baring, of London, for the loan of her manuscript translation of " Pedagogia Scientifica " ; to Mrs. John E. Fisher (Dorothy Canfield) for translating a large part of the new work written by Dr. Montessori for the American Edition ; and to The House of Childhood, Inc., New York, for use of the illustrations of the didactic apparatus. Dr. Montessori's patent rights in the apparatus are controlled, for the United States and Canada, by The House of Childhood, Inc.The Publisheks.</p>
+			</div>
+			<div type="Preface to the american edition">
+					<p>Preface to the american edition. In February, 1911, Professor Henry W. Holmes, of the Division of Education of Harvard University, did me the honour to suggest that an English translation be made of my Italian volume, "II Metodo della Pedagogia Scientifica applicato all' educazione infantile nelle Case dei Bambini." This suggestion represented one of the greatest events in the history of my educational work. To-day, that to v^hich I then looked forward as an unusual privilege has become an accomplished fact. The Italian edition of "II Metodo della Pedagogia Scientifica" had no preface, because the book itself I consider nothing more than the preface to a more comprehensive work, the aim and extent of which it Only indicates. For the educational method for children of from three to six years set forth here is but the earnest of a work that, developing the same principle and method, shall cover in a like manner the successive stages of education. Moreover, the method which obtains in the Case dei Bambini offers, it seems to me, an experimental field for the study of man, and promises, perhaps, the development of a science that shall disclose other secrets of nature. In the period that has elapsed between the publication of the Italian and American editions, I have had, with my pupils, the opportunity to simplify and render more exact certain practical details of the method, and to gather additional observations concerning discipline. The results attest the vitality of the method and the necessity for an extended scientific collaboration in the near future, and are embodied in two new chapters written for the American edition. I know that my method has been widely spoken of in America, thanks to Mr. S. S. McClure, who has presented it through the pages of his well-known magazine. Indeed, many Americans have already come to Home for the purpose of observing personally the practical application of the method in. my little schools. If, encouraged by this movement, I may express a hope for the future, it is that my work in Rome shall become the centre of an efficient and helpful collaboration. To the Harvard professors who have made my work known in America and to McClure's Magazine, a mere acknowledgment of what I owe them is a barren response ; but it is my hope that the method itself, in its effect upon the children of America, may prove an adequate expression of my gratitude. Maria Montessori.. Rome, 1912.</p>
+			</div>
+			<div type="contents">
+				<head>Table of Contents</head>
+					<list>
+						<item>I. A critical consideration  of the new pedagogy in its relation to modern science</item>
+						<item>II. History of methods</item>
+						<item>III. Inaugural adress delivered of the occasion of the opening of one of the "children's houses"</item>
+						<item>IV. Pedagogical methods used in the "children's houses"</item>
+						<item>V. Discipline</item>
+						<item>VI. How the lesson should be given</item>
+						<item>VII. Exercices of pratical life</item>
+						<item>VIII. Refection- The child's diet</item>
+						<item>IX. Muscolar education-gymnastics</item>
+						<item>X. Nature in education-Agricultural labour: culture of plants and animals</item>
+						<item>XI. Manual labour- the potter's art, and building</item>
+						<item>XII. Education of the senses</item>
+						<item>XIII. Education of the senses and illustrations of the didactic material: general sensibility: the tactile, thermic, baric and stereognostic senses</item>
+						<item>XIV. General notes of the education of the senses</item>
+						<item>XV. Intellectual education</item>
+						<item>XVI. Method for the teaching of reading and writing</item>
+						<item>XVII. Description of the method and didactic material used</item>
+						<item>XVIII. Language in childhood</item>
+						<item>XIX. Teaching of numeration: instruction to arithmetic</item>
+						<item>XX. Sequence of exercises</item>
+						<item>XXI. General review of discipline</item>
+						<item>XXII. Conclusions and impressions</item>
+					</list>
+				</div>
+		</front>
+	</text>
+</TEI>

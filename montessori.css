@@ -1,0 +1,21 @@
+h1 {
+	background-color: lightblue;
+	text-align: center;
+  text-transform: uppercase;
+  color:#4682B4;
+  text-shadow: 2px 2px 4px white;
+}
+.carousel-caption {
+	 position: absolute;
+	 left:0;
+	 width: 70%;
+	 background-color: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+	 color: white;
+	 padding:30px;
+}
+
+footer {
+  padding-top: 30px;
+  background-color: whitesmoke;
+  text-align: center;
+}
